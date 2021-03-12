@@ -1,15 +1,15 @@
-.col-sm1{
-    background-color: red;
-}
-
-.col-sm2{
+#first{
     background-color: yellow;
 }
 
-.col-sm3{
+#second{
     background-color: greenyellow;
 }
 
-.col-sm4{
+#third{
+    background-color: yellowgreen;
+}
+
+#fourth{
     background-color: green;
 }
